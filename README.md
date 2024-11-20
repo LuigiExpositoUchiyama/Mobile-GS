@@ -20,12 +20,12 @@ senha: 123</br>
 │   ├── /images</br> 
 │   │   ├── logo.png</br> 
 │   │   └── background.jpg</br> 
-│   └── muitasImgs.jpg</br> 
 ├── /src</br> 
 │   ├── /components</br> 
 │   │   ├── AdicionarScreen.tsx</br> 
 │   │   └── EditarScreen.tsx</br> 
 │   ├── /screens</br> 
+│   │   ├── DicasScreen.tsx</br> 
 │   │   ├── LoginScreen.tsx</br> 
 │   │   ├── HomeScreen.tsx</br> 
 │   │   └── RegisterScreen.tsx</br> 
