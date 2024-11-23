@@ -37,4 +37,4 @@ senha: 123</br>
 
 <h1>Projeto</h1>
 
-
+O EcoSave é um aplicativo inovador e minimalista focado na redução do consumo de energia. Ele ajuda os usuários a monitorar e gerenciar o uso de energia de forma eficiente, oferecendo insights em tempo real e sugestões personalizadas para economia de energia. Com uma interface amigável e intuitiva, o EcoSave visa promover práticas sustentáveis e contribuir para um futuro mais verde.
